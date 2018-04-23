@@ -1,0 +1,55 @@
+ch. 1
+
+ch. 2
+https://github.com/calthoff/tstp/tree/master/part_I/getting_started/challenges
+
+ch. 3
+https://github.com/calthoff/tstp/tree/master/part_I/introduction_to_programming/challenges
+
+ch. 4
+https://github.com/calthoff/tstp/tree/master/part_I/functions/challenges
+
+ch. 5
+https://github.com/calthoff/tstp/tree/master/part_I/containers/challenges
+
+ch. 6
+https://github.com/calthoff/tstp/tree/master/part_I/string_manipulation/challenges
+
+ch. 7
+https://github.com/calthoff/tstp/tree/master/part_I/loops/challenges
+
+ch. 8
+https://github.com/calthoff/tstp/tree/master/part_I/modules/challenges
+
+ch. 9
+https://github.com/calthoff/tstp/tree/master/part_I/files/challengesq
+
+ch. 10
+https://github.com/calthoff/tstp/tree/master/part_I/bringing_it_all_together/challenges
+
+ch. 12
+https://github.com/calthoff/tstp/tree/master/part_II/programming_paradigms/challenges
+
+ch. 13
+https://github.com/calthoff/tstp/tree/master/part_II/the_four_pillars_of_oop/challenges
+
+ch. 14
+https://github.com/calthoff/tstp/tree/master/part_II/more_object_oriented_programming/challenge
+
+ch. 16
+https://github.com/calthoff/tstp/tree/master/part_III/bash/challenges
+
+ch. 17
+https://github.com/calthoff/tstp/tree/master/part_III/regular_expressions/challenges
+
+ch. 18
+https://github.com/calthoff/tstp/blob/master/part_III/package_managers/challenges/challenge1.sh
+
+ch. 20
+https://github.com/calthoff/tstp/blob/master/part_III/bringing_it_all_together/challenge/challenge_1.py
+
+ch. 21
+https://github.com/calthoff/tstp/tree/master/part_IV/data_structures/challenges
+
+
+
